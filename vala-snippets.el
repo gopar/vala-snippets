@@ -1,8 +1,8 @@
 ;;; vala-snippets.el --- Yasnippets for Vala
 
-;; Copyright (C)  2010-2014 Takayoshi Kimura
+;; Copyright (C) 2015 Daniel Gopar
 
-;; Author: Takayoshi Kimura
+;; Author: Daniel Gopar
 ;; URL: https://github.com/gopar/vala-snippets
 ;; Package-Requires: ((yasnippet "0.8.0"))
 
